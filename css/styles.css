@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Dosis|Indie+Flower|Open+Sans+Condensed:300|Pacifico|Poiret+One|Kaushan+Script");
+@import url("https://fonts.googleapis.com/css?family=Bubbler+One");
+body {
+    background: rgba(78, 82, 192, 0.5);
+}
+
+.divider .navbar {
+    background-color: rgba(78, 82, 192, 0.3);
+}
+
+.heading {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.centerpoint {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.contentdiv {
+    background-color: white;
+    width: 400px;
+    height: 100px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Bubbler One', sans-serif;
+    padding: 15px;
+}
+
+.quotebutton {
+    width: 100px;
+    height: 100px;
+    margin-left: 27px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+a.btn-left {
+    background-color: rgba(78, 82, 192, 0.3);
+    border: 0 none;
+    display: inline-block;
+}
+
+a.btn-right {
+    background-color: rgba(78, 82, 192, 0.3);
+    border: 0 none;
+}
